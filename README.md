@@ -1,11 +1,11 @@
 # RockPaperScissors
-Overview
+## Overview
 The Rock-Paper-Scissors game is a classic hand game played between two players. Each player simultaneously forms one of three shapes with their hand. The possible shapes are “rock,” “paper,” and “scissors.” The winner is determined based on the rules:
 
-Rock crushes scissors (Rock wins)
-Scissors cut paper (Scissors win)
-Paper covers rock (Paper wins)
-Code Explanation
+- Rock crushes scissors (Rock wins)
+- Scissors cut paper (Scissors win)
+- Paper covers rock (Paper wins)
+## Code Explanation
 generateRandomNum()
 Purpose: Generates a random number to represent the computer’s choice (0 for rock, 1 for paper, 2 for scissors).
 Return Value: An integer representing the computer’s choice.
@@ -34,9 +34,9 @@ Displays the computer’s choice.
 Calls game() to determine the winner and update scores.
 Asks if the user wants to play again.
 Usage: Entry point for the game execution.
-How to Play
-Compile and run the program.
-Enter your choice (rock, paper, or scissors) when prompted.
-The computer’s choice will be displayed.
-The winner of the round will be announced.
-You can choose to play again or exit.
+## How to Play
+1. Compile and run the program.
+2. Enter your choice (rock, paper, or scissors) when prompted.
+3. The computer’s choice will be displayed.
+4. The winner of the round will be announced.
+5. You can choose to play again or exit.
